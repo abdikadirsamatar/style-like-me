@@ -1,1 +1,0 @@
-"use script" // more stript with errors
